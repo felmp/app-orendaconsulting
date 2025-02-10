@@ -1,5 +1,5 @@
 import Image from "next/image"
-import imgMoney from '../icon-money.svg'
+import imgMoney from '../../../../public/icon-money.svg'
 
 interface TransactionItemProps {
   amount: string
